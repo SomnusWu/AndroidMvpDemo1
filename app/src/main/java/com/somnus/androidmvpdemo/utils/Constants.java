@@ -9,7 +9,7 @@ package com.somnus.androidmvpdemo.utils;
 
 public class Constants {
 
-    public static final String USER_NAME = "Somnus";
+    public static final String USER_NAME = "15000000000";
     public static final String USER_PASWORD = "123456";
 
 }
